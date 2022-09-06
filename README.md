@@ -23,6 +23,7 @@ Make sure to update your root `package.json` to add this vendor as trusted:
     ]
   }
 }
+```
 
 ### Local installation
 Alternatively, clone the sources of this repository to a folder `src/yireo/example` and add the following to the `dependencies` of your roots `package.json` file:
